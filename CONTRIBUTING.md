@@ -5,6 +5,7 @@ New to Git and GitHub? Check out these resources to get started:
 1. [GitHub Guides](https://guides.github.com/)
 2. [Getting Started with Git](https://git-scm.com/book/en/v1/Getting-Started)
 3. [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+4. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 The rules for contributing here are pretty simple: 
