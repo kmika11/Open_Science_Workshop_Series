@@ -9,10 +9,11 @@ Please open an Issue to comment on whether a workshop or other training would be
 3. [HackMD](https://hackmd.io/)
 4. [Google Docs](https://www.google.com/docs/about/)
 5. [Overleaf](https://www.overleaf.com/), [Authorea](https://www.authorea.com/)
-6. [Figshare](https://figshare.com/), [Zenodo](https://zenodo.org/)
-7. [Hypothes.is](https://web.hypothes.is/)
-8. [CodeOcean](https://codeocean.com/)
-9. [CoCalc](https://cocalc.com/) or [JupyterHub](https://jupyter.org/hub)
+6. [Zotero](https://www.zotero.org/)
+7. [Figshare](https://figshare.com/), [Zenodo](https://zenodo.org/)
+8. [Hypothes.is](https://web.hypothes.is/)
+9. [CodeOcean](https://codeocean.com/)
+10. [CoCalc](https://cocalc.com/) or [JupyterHub](https://jupyter.org/hub)
 
 ### Open Research Data
 
