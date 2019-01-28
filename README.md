@@ -3,6 +3,7 @@ Files and scripts for CRDDS' Open Science Workshop Series at CU Boulder.
 
 ## Open Collaboration
 January 28, 2018
+
 Slides available at: http://bit.ly/OpenCollabS19
 
 Open Collaboration introduces the principles of this Open movement and investigates its impact on Science and research. This workshop includes opportunities for discussion and reflection on Open Science principles and ideas for devising concrete ways for improving open practices locally in a department, institute, or lab environment. Researchers will learn about the idea of working openly and collaboratively and will be able to evaluate the use of tools like GitHub and the Open Science Framework. 
